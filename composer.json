@@ -1,0 +1,13 @@
+{
+    "name": "vendor/guava",
+    "description": "test",
+    "authors": [
+        {
+            "name": "鄭燕玄",
+            "email": "devil82426@gmail.com"
+        }
+    ],
+    "require": {
+	"google/apiclient": "^2.0"
+	}
+}
